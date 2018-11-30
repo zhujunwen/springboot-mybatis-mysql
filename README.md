@@ -1,2 +1,4 @@
 # springboot-mybatis-mysql
-spring+mybatis+mysql整合
+springboot+mybatis+mysql整合
+IDE:intelliJ IDEA 
+mybatis3
