@@ -1,0 +1,13 @@
+server:
+  port: 8080
+
+spring:
+  datasource:
+    name: test
+    url: jdbc:mysql://127.0.0.1:3306/textdatabase?serverTimezone=GMT%2B8&useSSL=FALSE
+    username: root
+    password: zhujunwen
+
+mybatis:
+  mapper-locations: classpath:mapping/UserMapper.xml
+  #type-aliases-package: com.example.demo
